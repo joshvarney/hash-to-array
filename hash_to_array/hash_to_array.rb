@@ -1,4 +1,6 @@
-def my_hash_to_array(my_hash, final_arr)
+
+def my_hash_to_array(my_hash)
+final_arr = []
 my_hash.each do |key, value| 
 key
 value
